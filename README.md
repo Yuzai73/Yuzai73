@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yuzai73
-- 👀 I’m interested in HTML & CSS, JS, React, MySQL, Node
-- 🌱 I’m currently learning JS, React, MySQL, Node
+- 👀 I’m interested in HTML & CSS, JS
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me coming soon 
 
